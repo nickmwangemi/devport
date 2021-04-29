@@ -23,3 +23,10 @@ class SimpleRichTextBlock(blocks.StructBlock):
     class Meta:
         icon = "pilcrow"
         template = "streamfieldblocks/simple_richtext_block.html"
+
+class CarouselBlock(blocks.StreamBlock):
+    image = ImageChooserBlock()
+
+    class Meta:
+        icon = "cog"
+        template = "streamfieldblocks/carousel_block.html"
