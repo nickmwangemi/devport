@@ -27,7 +27,7 @@ In case you require help setting up pipenv, you can check out these [instruction
   pipenv shell
 ```
 
-- nstall dependencies
+- Install dependencies
 
 ```bash
   pipenv install -r requirements.txt
