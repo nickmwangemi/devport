@@ -3,8 +3,9 @@ This is a developer portfolio project made using Wagtail CMS.
 
 
 #
-Before local installation, please make sure that you have Python3.6+ and pipenv running on your machine. 
-In case, you require help setting up pipenv, you check out these [instructions](https://pipenv-fork.readthedocs.io/en/latest/install.html)
+Before local installation, please make sure that you have Python3.6+ and pipenv installed and running on your machine. 
+
+In case you require help setting up pipenv, you can check out these [instructions](https://pipenv-fork.readthedocs.io/en/latest/install.html).
 ## Run Locally
 
 - Clone the project
@@ -57,7 +58,12 @@ The admin page is accessible at [http://127.0.0.1:8000/admin](http://127.0.0.1:8
 
 
 
-
 ## Tech Stack
 
 **Client/Server:** Wagtail CMS
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
